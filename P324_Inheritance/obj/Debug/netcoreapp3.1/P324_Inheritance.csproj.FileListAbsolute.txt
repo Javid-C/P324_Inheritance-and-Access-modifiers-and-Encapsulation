@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\bin\Debug\netcoreapp3.1\P324_Inheritance.exe
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\bin\Debug\netcoreapp3.1\P324_Inheritance.deps.json
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\bin\Debug\netcoreapp3.1\P324_Inheritance.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\bin\Debug\netcoreapp3.1\P324_Inheritance.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\bin\Debug\netcoreapp3.1\P324_Inheritance.dll
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\bin\Debug\netcoreapp3.1\P324_Inheritance.pdb
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.dll
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.pdb
+C:\Users\Lenovo\source\repos\P324_Inheritance\P324_Inheritance\obj\Debug\netcoreapp3.1\P324_Inheritance.genruntimeconfig.cache
